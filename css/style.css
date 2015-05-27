@@ -1,0 +1,19 @@
+article {
+  background-color: #000000;
+  background-image: url(../imgs/street-fighter.png);
+  min-height: 540px;
+}
+
+h1{
+  text-align: center;
+  color:#ffffff;
+
+}
+
+#cat1{
+  background-color:#000000;
+}
+
+#cat2{
+  background-color:#000000;
+}
